@@ -1,4 +1,4 @@
-<img alt="Full Stack Developer" src="https://media0.giphy.com/media/WOqcUlAxqzQM0jN96o/giphy.gif" width=1000 />
+<img alt="Full Stack Developer" src="https://media0.giphy.com/media/WOqcUlAxqzQM0jN96o/giphy.gif" width=900 align="center" />
 <h1 align="center">Hi 👋, I'm Rahul J</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
