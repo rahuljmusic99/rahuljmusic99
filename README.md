@@ -1,4 +1,4 @@
-<img alt="Full Stack Developer" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif" />
+<img alt="Full Stack Developer" src="https://media0.giphy.com/media/WOqcUlAxqzQM0jN96o/giphy.gif" width=1000 />
 <h1 align="center">Hi 👋, I'm Rahul J</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
