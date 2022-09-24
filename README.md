@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Canara Exam Manager**
 
-- 🌱 I’m currently learning **Java Servlets and JSP**
+- 🌱 I’m currently learning **HTML,CSS,Java Script**
 
 - 🤝 I’m looking for help with **Node JS**
 
